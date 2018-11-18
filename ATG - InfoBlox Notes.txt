@@ -1,0 +1,31 @@
+Remote into: lizztech.ddns.net
+lizztech2010@outlook.com/Salesforce2016!
+
+Dev: https://infobloxvista--dev.lightning.force.com/one/one.app#/home
+nehal.modi@atginfo.com.infoblox.dev
+Salesforce2017!
+
+
+
+-------------------------------------------------------------------------
+Move Accounts and its relationships :
+
+Account 
+Contract
+Subscription
+- Subscription - (API : SBQQ__Subscription__c)
+- Subscription Software Price -(API : Subscription_Software_Price__c)
+- Subscription - (Standard Object)
+Asset 
+- Customer Asset -(API : Customer_Asset__c)
+- Subscribed Asset - (API : SBQQ__SubscribedAsset__c)
+- Asset - (Standard Object)
+ 
+
+
+
+
+
+
+
+------------------------------------------------------------------------
